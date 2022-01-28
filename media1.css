@@ -1,0 +1,77 @@
+@media screen and (max-width: 992px) {
+    header {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+    }
+
+    .boxbcdefg {
+        width: auto;
+    }
+
+    .twobox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bcd {
+
+        display: flex;
+        flex-direction: row;
+        height: auto;
+    }
+
+    .efg {
+
+        display: flex;
+        flex-direction: row;
+        height: auto;
+    }
+
+    .b {
+        border-radius: 20px;
+        height: 100px;
+        margin: 20px;
+    }
+
+    .c {
+        border-radius: 20px;
+        height: 100px;
+        margin: 20px;
+    }
+
+    .d {
+        border-radius: 20px;
+        height: 100px;
+        margin: 20px;
+    }
+
+    .e {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+    }
+
+    .f {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+
+    }
+
+    .g {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+
+    }
+
+    .boxh {
+        border-radius: 20px;
+        margin: 20px;
+        height: 300px;
+        width: auto;
+    }
+
+
+}

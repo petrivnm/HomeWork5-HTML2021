@@ -1,0 +1,50 @@
+@media screen and (max-width: 992px) {
+    header {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+    }
+
+    .twobox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .boxb {
+        border-radius: 20px;
+        margin: 20px;
+        height: 300px;
+        width: auto;
+    }
+
+    .boxbcde {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+
+    .c {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+
+    }
+
+    .d {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+    }
+
+    .e {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+    }
+
+    .boxf {
+        border-radius: 20px;
+        margin: 20px;
+        height: 100px;
+        width: auto;
+    }
